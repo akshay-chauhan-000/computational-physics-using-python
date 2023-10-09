@@ -22,7 +22,7 @@ plt.plot(xplot)
 
 ## Comparison
 
-To compare unbiased and biased random walks, we simulate multiple random walks (specified by `num_walks`) with a fixed number of steps (`N`). We then compute the final positions for each walk and plot a histogram.
+To compare unbiased and biased random walks, I simulated multiple random walks (specified by `num_walks`) with a fixed number of steps (`N`). I then computed the final positions for each walk and plot a histogram.
 
 ```python
 N = 1000  # Number of steps
