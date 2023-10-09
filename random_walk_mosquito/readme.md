@@ -25,6 +25,4 @@ xcoord, ycoord = mosquito_random_walk(1000, 0.1)
 
 The code also includes an animation to visualize the mosquito's movement. It uses Matplotlib to create an animated plot that shows the path taken by the mosquito.
 
-Feel free to use, modify, and distribute it according to the terms of the license. If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
-
 Happy simulating!
