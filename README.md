@@ -10,7 +10,7 @@ This repository is a collection of Python code and Jupyter notebooks covering a 
    - Working with arrays and basic plotting.
 
 2. [Basic Statistical Mechanics](basic_statistical_mechanics/)
-   - [2-D Ising Model](2-D Ising Model)
+   - [2-D Ising Model](2-D%20Ising%20Model)
    - [Central Limit Theorem](central_limit_theorem)
    - [Estimation of Pi Using Monte Carlo](monte_carlo_pi)
    - [Biased Vs Unbiased Random Walk](radndom_walk_comparison)
