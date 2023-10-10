@@ -10,9 +10,11 @@ This repository is a collection of Python code and Jupyter notebooks covering a 
    - Working with arrays and basic plotting.
 
 2. [Basic Statistical Mechanics](basic_statistical_mechanics/)
-   - Simulating simple statistical systems.
-   - Monte Carlo methods for statistical simulations.
-   - Random walks and diffusion.
+   - [2-D Ising Model](2-D Ising Model)
+   - [Central Limit Theorem](central_limit_theorem)
+   - [Estimation of Pi Using Monte Carlo](monte_carlo_pi)
+   - [Biased Vs Unbiased Random Walk](radndom_walk_comparison)
+   - [Mosquito Random Walk](random_walk_mosquito)
 
 3. [Classical Mechanics](classical_mechanics/)
    - Solving classical mechanics problems using numerical methods.
