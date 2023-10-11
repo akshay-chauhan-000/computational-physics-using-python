@@ -71,9 +71,7 @@ This repository contains Python code to simulate a 2D Ising model, a fundamental
 
 For more detailed information about the Ising model and its applications, [follow this link](http://web.mit.edu/ceder/publications/Ising%20Model.pdf).
 
-## Further Reading
 
-For a deeper understanding of the Ising model and its applications, please refer to [this comprehensive resource](https://www.unige.ch/math/folks/velenik/smbook/Ising_Model.pdf).
 
                                                                                                                                                               
                                                                                                                                                               
