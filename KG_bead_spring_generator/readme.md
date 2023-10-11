@@ -1,6 +1,6 @@
 # Bead-Spring Model Generator
 
-[alt text](https://github.com/akshay-chauhan-000/computational-physics-using-python/blob/KG_bead_spring_generator/polymer.gif?raw=true)
+![](https://github.com/akshay-chauhan-000/computational-physics-using-python/blob/main/KG_bead_spring_generator/polymer.gif)
 
 ## Overview
 
