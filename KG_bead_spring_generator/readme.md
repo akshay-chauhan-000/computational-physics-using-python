@@ -1,6 +1,6 @@
 # Bead-Spring Model Generator
 
-![Bead-Spring Model](polymer.gif)
+[Bead-Spring Model](polymer.gif)
 
 ## Overview
 
