@@ -1,5 +1,7 @@
 # Bead-Spring Model Generator
 
+![Bead-Spring Model](polymer.gif)
+
 ## Overview
 
 The bead-spring model is a simple computational model used to simulate polymer chains. In this model, a polymer chain is represented as a series of beads (representing monomers) connected by springs. The beads experience random thermal motion and are subject to certain constraints, such as bond length and persistence length.
