@@ -6,6 +6,8 @@ The bead-spring model is a simple computational model used to simulate polymer c
 
 This code generates a bead-spring model in 3D space, incorporating persistence length and minimum bead-to-bead distance constraints. The model allows for the simulation of a single polymer chain with a variable number of monomer beads.
 
+For more detailed information about the Kremer-Grest Bead Spring Model, Kurt Kremer, Gary S. Grest; Dynamics of entangled linear polymer melts:  A molecular‐dynamics simulation. J. Chem. Phys. 15 April 1990; 92 (8): 5057–5086. [follow this link](https://doi.org/10.1063/1.458541).
+
 ## Usage
 
 To generate a bead-spring model, you can use the `generate_single_chain_model` function in Python. Here's an example of how to use it:
